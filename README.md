@@ -1,6 +1,6 @@
 ## Olá! 👋 Eu sou o Pablo 👨‍💻
 
-### Sou um Desenvolvedor Full-Stack apaixonaado por programação, esportes e aprender.
+### Sou um Desenvolvedor Full-Stack apaixonado por programação, esportes e aprender.
 
 #### Linguagens e tecnologias:
 
